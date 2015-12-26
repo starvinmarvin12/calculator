@@ -4,6 +4,7 @@
 int main() {
 
 	std::vector<float> storage ;
+	
 	float difference = 0.0 ;
 	float input1 = 0.0 ; 
 	float input2 = 0.0 ;
