@@ -39,7 +39,7 @@ int main() {
 		std::cout << " Multiplication = 3 \n" ; 
 		std::cout << " Division = 4 \n" ; 
 
-		int operation ;
+		int operation = 0 ;
 
 		std::cin >> operation ;
 
