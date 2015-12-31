@@ -19,3 +19,15 @@
 
 `Password entered` // lapse of an hour
 	// Identity verified
+
+## Instructions to compile and run
+
+* cd to the `calculator` directory
+* Compile with `g++ -Wall -Wextra -Werror Test112715.cc -o test`
+* Run with `./test`
+* Exit the calculator with `ctrl+C`
+
+## Helpful Tips
+
+### Do you want to edit this readme and preview your markdown?
+Simple! Copy the contents of this file into dillinger.io to see a preview.
